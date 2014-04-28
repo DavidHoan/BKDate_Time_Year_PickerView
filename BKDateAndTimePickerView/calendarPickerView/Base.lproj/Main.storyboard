@@ -16,6 +16,8 @@
                             <pickerView contentMode="scaleToFill" id="Mro-Cb-gUw">
                                 <rect key="frame" x="0.0" y="406" width="320" height="162"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                                <color key="backgroundColor" red="0.0" green="0.50196081400000003" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <connections>
                                     <outlet property="dataSource" destination="vXZ-lx-hvc" id="fvt-wV-iZF"/>
                                     <outlet property="delegate" destination="vXZ-lx-hvc" id="dTv-EW-Ijz"/>

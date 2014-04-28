@@ -243,6 +243,9 @@ BKDateAndTimePickerView
         [pickerLabel setTextAlignment:NSTextAlignmentCenter];
         [pickerLabel setBackgroundColor:[UIColor clearColor]];
         [pickerLabel setFont:[UIFont systemFontOfSize:15.0f]];
+        pickerLabel.font = [UIFont fontWithName:@"HelveticaNeue-Bold" size:15.0];
+        pickerLabel.textColor = [UIColor whiteColor];
+        
     }
     
     
