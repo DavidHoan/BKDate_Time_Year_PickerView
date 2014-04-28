@@ -1,4 +1,4 @@
-BKDateAndTimePickerView
+BKDate_Time_Year_PickerView
 =======================
 
 Custom date and time are separately provided in ios sdk with this 
